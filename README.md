@@ -7,8 +7,8 @@ Boya(Buoys) is a decentralized application (dApp) leveraging the high throughput
 
 # Features
 
-	1.	Data Boya(Buoys): Smart contracts on Solana that act as buoys for data, marking important information and making it persistently visible across the network.
-	2.	Real-Time Analysis: Leveraging Solana’s capability for high-speed data processing to enable real-time data analysis and reporting.
-	3.	User Governance: A DAO structure that allows users to vote on key decisions regarding the management and evolution of the Data Buoys platform.
-	4.	Secure Data Sharing: Utilizing Solana’s secure and decentralized nature to facilitate the safe sharing and transaction of data among participants.
-	5.	Tokenomics: Integration of a utility token for platform governance, data transactions, and incentivizing data verification.
+- Data Boya(Buoys): Smart contracts on Solana that act as buoys for data, marking important information and making it persistently visible across the network.
+- Real-Time Analysis: Leveraging Solana’s capability for high-speed data processing to enable real-time data analysis and reporting.
+- User Governance: A DAO structure that allows users to vote on key decisions regarding the management and evolution of the Data Buoys platform.
+- Secure Data Sharing: Utilizing Solana’s secure and decentralized nature to facilitate the safe sharing and transaction of data among participants.
+- Tokenomics: Integration of a utility token for platform governance, data transactions, and incentivizing data verification.
